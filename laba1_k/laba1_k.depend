@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599388378 source:c:\rom\ks\laba1_k\main.cpp
+	<winsock2.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
